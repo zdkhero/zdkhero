@@ -3,6 +3,7 @@
 ## I’m DaKang Zheng
 
 - web developer
+- teacher
 - I'm from China
 
 <!--
