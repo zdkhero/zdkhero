@@ -2,9 +2,8 @@
 
 ## I’m DaKang Zheng
 
-- web developer
-- teacher
-- I'm from China
+- 👨‍💻 前端工程师 A Front End Engineer	
+- 🕵️‍♀️ 专注搬砖，资深 Web 修补匠  Code Farmer	
 
 <!--
 **FlightLoong/FlightLoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
